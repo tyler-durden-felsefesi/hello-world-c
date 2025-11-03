@@ -1,2 +1,2 @@
 # hello-world-c
-delulu
+I'am new to programinng
